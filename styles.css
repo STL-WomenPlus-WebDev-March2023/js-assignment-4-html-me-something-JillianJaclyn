@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+img {
+    max-width:40%;
+    height: auto;
+}
+body {
+    text-align: center;
+    margin: 8 px;
+    display: block;
+    background-color: mintcream;
+}
+p {
+    font-size: 20 px;
+    color: Purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-size: 50 px;
+    color:darkgreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#mainHeading {
+    font-size: 150 px;
+    color:red;
+    font-family:fantasy;
+}
+.funParagraph {
+    color: green ;
+}
